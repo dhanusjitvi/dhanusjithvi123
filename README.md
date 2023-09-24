@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhanus Jith vi</h1>
+<h1 align="center">Hi 👋, I'm Dhanusjith</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
 <img align="right" alt="alt" wdith="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
